@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * Puts returning success
+ * main - Entry point
  *
- * trying to find solution to the error
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
