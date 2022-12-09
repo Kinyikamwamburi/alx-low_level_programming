@@ -2,11 +2,10 @@
 #include <time.h>
 #include<stdio.h>
 /**
- * main entry point
- * Prints positive negaitve or zero
- * Betty code used
+ * main - Entry point
+ *       Prints positive negaitve or zero
  *
- * Return 0 : Success
+ * Return: Always 0 (Success)
  */
 int main(void)
 
