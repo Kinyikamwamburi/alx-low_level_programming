@@ -2,8 +2,9 @@
 #include <time.h>
 #include<stdio.h>
 /**
- * more headers goes there
- * Bety code used
+ * main entry point
+ * Prints positive negaitve or zero
+ * Betty code used
  *
  * Return 0 : Success
  */
