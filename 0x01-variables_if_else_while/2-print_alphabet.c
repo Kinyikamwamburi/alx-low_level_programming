@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - This is where we start
+ * main - Entry point This is where we start
  *    print out lower alphabets
  *
  */
