@@ -1,9 +1,8 @@
-#include<stdio.h>
 #include"main.h"
 /**
  * main - check the code
  *
- * print_alphabet - protype function to print out aplhabets
+ * Description: print_alphabet - protype function to print out aplhabets
  *
  * Return: void
  */
