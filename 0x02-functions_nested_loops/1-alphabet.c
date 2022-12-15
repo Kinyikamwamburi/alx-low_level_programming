@@ -1,9 +1,11 @@
 #include<stdio.h>
 #include"main.h"
 /**
- * main - chck the code using  prototype function
+ * main - check the code 
  *
- * Return: Always 0
+ * print_alphabe,t using  prototype function
+ *
+ * Return: void
  */
 void print_alphabet(void)
 {
