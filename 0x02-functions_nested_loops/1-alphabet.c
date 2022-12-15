@@ -1,12 +1,10 @@
 #include"main.h"
 /**
- * main - check the code
- *
- * Description: print_alphabet - protype function to print out aplhabets
+ * print_alphabet - puts out alphabets
  *
  * Return: void
  */
-void print_alphabet(void);
+void print_alphabet(void)
 
 {
 	char ch;
