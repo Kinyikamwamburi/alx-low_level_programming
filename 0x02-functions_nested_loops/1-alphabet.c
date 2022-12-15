@@ -1,9 +1,9 @@
 #include<stdio.h>
 #include"main.h"
 /**
- * main - check the code 
+ * main - check the code
  *
- * print_alphabe,t using  prototype function
+ * print_alphabet - protype function to print out aplhabets
  *
  * Return: void
  */
