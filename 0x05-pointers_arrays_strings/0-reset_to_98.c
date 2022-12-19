@@ -2,7 +2,7 @@
 
 /**
  * reset_to_98 - function that updates n
- * n - int that value is updated
+ * @n: int that value is updated
  *
  * Return: updated value n
  */
