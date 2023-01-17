@@ -1,9 +1,11 @@
-#ifndef FUNCTION_LIKE_MACRO_H
-#define FUNCTION_LIKE_MACRO_H
+#ifndef 3_FUNCTION_LIKE_MACRO_H
+#define 3_FUNCTION_LIKE_MACRO_H
+
 /**
- * ABS - macro function prints the absolute value of a number
- * @x: the number that will be used to get absolute value
- * Desc: Absolute value of a number
+ * File: 3-function_like_macro.h
+ * @x: number
+ * Desc: function-like macro ABS(x) that computes
+ *       the absolute value of a number x
  */
 
 #define ABS(x) ((x < 0) ? (-x) : (x))
