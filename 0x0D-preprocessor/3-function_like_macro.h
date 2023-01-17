@@ -1,9 +1,9 @@
-#ifndef 3_FUNCTION_LIKE_MACRO_H
-#define 3_FUNCTION_LIKE_MACRO_H
+#ifndef FUNCTION_LIKE_MACRO_H
+#define FUNCTION_LIKE_MACRO_H
 
 /**
  * File: 3-function_like_macro.h
- * @x: number
+ * @x: number to find its absolute value
  * Desc: function-like macro ABS(x) that computes
  *       the absolute value of a number x
  */
