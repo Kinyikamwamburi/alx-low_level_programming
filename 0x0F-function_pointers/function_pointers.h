@@ -5,7 +5,8 @@
 /**
  * File: function_pointers.h
  * Auth: Ruth M
- * Desc: Function pointers
+ * Desc: Function pointers. Header files for all the protype functions
+ *       in the function pointer directory
  */
 
 void print_name(char *name, void (*f)(char *));
