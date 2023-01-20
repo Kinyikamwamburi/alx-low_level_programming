@@ -1,10 +1,9 @@
+#include <stddef.h>
 #ifndef FUNCTION_POINTERS_H
 #define FUNCTION_POINTERS_H
 
-#include <stddef.h>
 /**
  * File: function_pointers.h
- * Auth: Ruth M
  * Desc: Function pointers. Header files for all the protype functions
  *       in the function pointer directory
  */
