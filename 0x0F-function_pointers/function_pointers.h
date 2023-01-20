@@ -2,6 +2,7 @@
 #define FUNCTION_POINTERS_H
 
 #include <stddef.h>
+#include <stdlib.h>
 
 /**
  * File: function_pointers.h
