@@ -6,12 +6,11 @@
  *
  * Return: number of elements in the list
  */
-
 size_t list_len(const list_t *h)
 {
 	size_t x = 0;
 
-	if (x)
+	while (h)
 	{
 		x++;
 		h = h->next;
@@ -19,4 +18,3 @@ size_t list_len(const list_t *h)
 
 	return (x);
 }
-
